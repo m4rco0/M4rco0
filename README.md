@@ -1,4 +1,6 @@
-# ⚡ m4rco0 | Security  & Computer Engineering Student
+# ⚡ m4rco0 | Red Team student  & Computer Engineering Student
+<div align="center">
+  <img src="https://media1.tenor.com/m/7qeBQESy9r4AAAAC/gif-dante.gif">
 
 Olá! Sou o Marco, estudante de Engenharia de Computação e entusiasta de Cybersecurity, com foco especial em **Red Team** e **Pentesting**. Atualmente, divido meu tempo entre o desenvolvimento de ferramentas em **Go/Python** e a resolução de desafios em laboratórios de segurança.
 
@@ -6,7 +8,7 @@ Olá! Sou o Marco, estudante de Engenharia de Computação e entusiasta de Cyber
 
 ###  GitHub Contributions Game
 ![Space Shooter Game](game.gif)
-
+</div>
 ---
 
 ### 🛡️ Cybersecurity Focus
@@ -24,10 +26,10 @@ Olá! Sou o Marco, estudante de Engenharia de Computação e entusiasta de Cyber
 * **Write-ups Repository:** Documentação detalhada de máquinas e desafios de CTF.
 
 ---
-
+<div align="center">
 
 ### 🤝 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-ant%C3%B4nio-69931b190/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/M4rco)
+</div>
 
----
