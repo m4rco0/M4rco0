@@ -27,7 +27,7 @@ Olá! Sou o Marco, estudante de Engenharia de Computação e entusiasta de Cyber
 
 
 ### 🤝 Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tryhackme.com/p/M4rco)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://www.linkedin.com/in/marco-ant%C3%B4nio-69931b190/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-ant%C3%B4nio-69931b190/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/M4rco)
 
 ---
