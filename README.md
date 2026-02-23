@@ -7,3 +7,5 @@
 <a href="https://tryhackme.com/p/M4rco" target="_blank"> <img align="center" src="https://github.com/user-attachments/assets/b9bee436-197f-4d27-bb9a-2e74662d6b6d" alt="m4rco0" height="30" width="40" /></a>
 <a href="https://hub.docker.com/repositories/unkm4" target="_blank"> <img align="center" src="https://github.com/user-attachments/assets/bb91bcf9-eb6c-4f20-9cdb-635e7336ea36" alt="docker_img" height="30" width="40" /></a>
 </p>
+
+![snake gif](https://github.com/m4rco0/m4rco0/blob/output/github-contribution-grid-snake.svg)
