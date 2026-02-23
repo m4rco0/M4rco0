@@ -1,11 +1,33 @@
-### Hi 👾
+# ⚡ m4rco0 | Security Researcher & Computer Engineering Student
+
+Olá! Sou o Marco, estudante de Engenharia de Computação e entusiasta de Cybersecurity, com foco especial em **Red Team** e **Pentesting**. Atualmente, divido meu tempo entre o desenvolvimento de ferramentas em **Go/Python** e a resolução de desafios em laboratórios de segurança.
+
+---
+
+###  GitHub Contributions Game
+![Space Shooter Game](game.gif)
+
+---
+
+### 🛡️ Cybersecurity Focus
+* **TryHackMe:** Comprometido em resolver máquinas e documentar write-ups.
+* **Red Team Interests:** Testes de invasão em aplicações web, segurança de redes e exploração de binários.
+
+### 🛠️ Tech Stack & Tools
+* **Linguagens:** Python, Go, Bash, C.
+* **DevOps & Infra:** Docker, Redes de Computadores, PostgreSQL & MongoDB.
+* **Workflow:** Neovim ).
+* **OS:** Linux .
+
+### 📁 Projetos em Destaque
+* **[simple_scan](https://github.com/m4rco0/simple_scan):** Ferramenta de scan de rede desenvolvida para agilizar o reconhecimento inicial.
+* **Write-ups Repository:** Documentação detalhada de máquinas e desafios de CTF.
+
+---
 
 
+### 🤝 Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tryhackme.com/p/M4rco)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://www.linkedin.com/in/marco-ant%C3%B4nio-69931b190/)
 
-<p align="left">
-<a href="https://linkedin.com/in/marco-antônio-69931b190" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marco-antônio-69931b190" height="30" width="40" /></a>
-<a href="https://tryhackme.com/p/M4rco" target="_blank"> <img align="center" src="https://github.com/user-attachments/assets/b9bee436-197f-4d27-bb9a-2e74662d6b6d" alt="m4rco0" height="30" width="40" /></a>
-<a href="https://hub.docker.com/repositories/unkm4" target="_blank"> <img align="center" src="https://github.com/user-attachments/assets/bb91bcf9-eb6c-4f20-9cdb-635e7336ea36" alt="docker_img" height="30" width="40" /></a>
-</p>
-
-![snake gif](https://github.com/m4rco0/m4rco0/blob/output/github-contribution-grid-snake.svg)
+---
