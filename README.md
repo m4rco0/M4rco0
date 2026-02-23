@@ -1,4 +1,4 @@
-# ⚡ m4rco0 | Security Researcher & Computer Engineering Student
+# ⚡ m4rco0 | Security  & Computer Engineering Student
 
 Olá! Sou o Marco, estudante de Engenharia de Computação e entusiasta de Cybersecurity, com foco especial em **Red Team** e **Pentesting**. Atualmente, divido meu tempo entre o desenvolvimento de ferramentas em **Go/Python** e a resolução de desafios em laboratórios de segurança.
 
