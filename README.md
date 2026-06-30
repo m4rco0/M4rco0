@@ -1,6 +1,4 @@
 # ⚡ m4rco0 | Red Team student  & Computer Engineering Student
-<div align="center">
-  <img src="https://media1.tenor.com/m/7qeBQESy9r4AAAAC/gif-dante.gif">
 
 Olá! Sou o Marco, estudante de Engenharia de Computação e entusiasta de Cybersecurity, com foco especial em **Red Team** e **Pentesting**. Atualmente, divido meu tempo entre o desenvolvimento de ferramentas em **Go/Python** e a resolução de desafios em laboratórios de segurança.
 
