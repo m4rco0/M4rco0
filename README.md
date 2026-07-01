@@ -14,7 +14,7 @@
 * **Workflow:** Neovim .
 * **OS:** Linux .
 
-### 📁 Projetos em Destaque
+### 📁 Projetos
 * **[simple_scan](https://github.com/m4rco0/simple_scan):** Ferramenta de scan de rede desenvolvida para agilizar o reconhecimento inicial.
 * **Write-ups Repository:** Documentação detalhada de máquinas e desafios de CTF.
 
